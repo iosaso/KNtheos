@@ -4,9 +4,6 @@
 
 sdks/*
 toolchain/*
-
-include/*
-lib/*
 !*/.keep
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore, theos & Swift.gitignore
 
